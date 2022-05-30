@@ -1,0 +1,2 @@
+Main-Class: fa.training.management.TeacherManagement
+
